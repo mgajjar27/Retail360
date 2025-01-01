@@ -1,12 +1,15 @@
 # Retail360
 Retail360 is a excel comprehensive dashboard designed for analyzing retail sales and returns. It leverages key metrics such as sales, returns, product categories, payment methods, and loyalty programs to offer insights into performance and customer behavior. This dashboard provides users with an intuitive and easy-to-understand interface to visualize trends, compare metrics, and support data-driven decisions in retail operations.
 
-Structure of Datasets
-The following crucial fields are present in the dataset:
-Date of Sale: The precise day on which a transaction took place. Every day, sales trends are monitored using this field.
-Month of Sale: The month that the transaction was completed. It facilitates the analysis of seasonality and monthly trends.
-Product ID: A special number given to every product.
-Product Category: The group to which the item falls (e.g., Ladies, Mens, Kids).
+Structure of Datasets:
+
+1. Date of Sale: The precise day on which a transaction took place. Every day, sales trends are monitored using this field.
+
+2. Month of Sale: The month that the transaction was completed. It facilitates the analysis of seasonality and monthly trends.
+
+3. Product ID: A special number given to every product. 
+5. Product Category: The group to which the item falls (e.g., Ladies, Mens, Kids).
+6. 
 The quantity of units sold in each transaction is known as the quantity sold.
 Sales Amount: The total amount of money made from the transaction.
 Profit: The amount of money made from the sale after related expenses are subtracted.
